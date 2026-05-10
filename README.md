@@ -1,6 +1,6 @@
 # 🚀 Hi, I’m Zo Heriniaina Antonio RANDRIANANDRIANINA
 
-💻 **Fullstack Developer | Backend Specialist**
+💻 **Fullstack Developer**
 
 🎓 IT University Andoharanofotsy – Madagascar 🇲🇬
 
