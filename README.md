@@ -63,4 +63,4 @@ I strongly believe that ambitious projects grow faster and better through **team
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zo-antonio)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zoheriniaina.antonio@gmail.com)
 
-📍 Antananarivo, Madagascar 🇲🇬 (Ready for remote work on Quebec Time)
+📍 Antananarivo, Madagascar 🇲🇬
