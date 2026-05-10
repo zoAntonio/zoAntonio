@@ -57,13 +57,6 @@ I strongly believe that ambitious projects grow faster and better through **team
 
 ---
 
-## 📈 Featured Projects
-- **System for Student Registration (ESPA):** Built with Symfony & Next.js using REST APIs and JSON.
-- **Institutional Reporting Platform (MESUPRES):** Digitalized complex workflows with a focus on data traceability.
-- **Custom Java MVC Framework:** Developed from scratch to master routing and HTTP logic.
-
----
-
 ## 📫 Let’s Connect
 
   
